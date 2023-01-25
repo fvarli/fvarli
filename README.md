@@ -10,6 +10,9 @@ I am a determined and motivated professional with a proven track record of deliv
 
 I am skilled in Agile and Scrum software development methodologies and am comfortable taking on a leadership role when necessary. I am also a team player and enjoy working in fast-paced, deadline-driven environments. I am confident that I can make a positive impact on any organization I join.
 
+![](https://komarev.com/ghpvc/?username=fvarli)
+
+
 <!--
 **fvarli/fvarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
