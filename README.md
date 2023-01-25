@@ -14,6 +14,23 @@ I am skilled in Agile and Scrum software development methodologies and am comfor
 ![](https://komarev.com/ghpvc/?username=fvarli)
 <img src="https://img.shields.io/github/followers/fvarli?label=Followers&style=social" alt="followers-count">
 
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://linkedin.com/in/fvarli">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+
+    <a title="iletisim@ferzendervarli.com" href="mailto:iletisim@ferzendervarli.com">
+        <img align="center" src="https://img.shields.io/badge/-EMAIL-orange" />
+    </a>
+</p>
+<br>
+
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
