@@ -14,6 +14,15 @@ I am skilled in Agile and Scrum software development methodologies and am comfor
 ![](https://komarev.com/ghpvc/?username=fvarli)
 <img src="https://img.shields.io/github/followers/fvarli?label=Followers&style=social" alt="followers-count">
 
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fvarli&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvarli&layout=compact&hide=Shell&border_radius=0&theme=dark" height="139" />
+</p>
+<br>
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
