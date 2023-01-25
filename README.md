@@ -21,7 +21,7 @@ I am skilled in Agile and Scrum software development methodologies and am comfor
 
 
 <p>
-    <a href="[https://github.com/m-sehrawat/Nike-Clone](https://github.com/fvarli/laravel-eloquent-factories)">
+    <a href="https://github.com/fvarli/laravel-eloquent-factories">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&repo=laravel-eloquent-factories&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>    
 </p>
