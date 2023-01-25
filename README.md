@@ -24,12 +24,7 @@ I am skilled in Agile and Scrum software development methodologies and am comfor
     <a href="https://linkedin.com/in/fvarli">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-
-    <a title="iletisim@ferzendervarli.com" href="mailto:iletisim@ferzendervarli.com">
-        <img align="center" src="https://img.shields.io/badge/-EMAIL-orange" />
-    </a>
 </p>
-<br>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
