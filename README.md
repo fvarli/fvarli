@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a senior software developer with over 3.5+ years of experience, I specialize in PHP and have a wealth of experience working with Laravel and CodeIgniter. I am also well-versed in MySQL, WordPress, JavaScript, jQuery, and Vue.js, making me a versatile and skilled developer.
+As a senior software developer with over 3.5+ years of experience, I specialize in PHP and have a wealth of experience working with Laravel and CodeIgniter. I am also well-versed in MySQL, WordPress, JavaScript, and jQuery, making me a versatile and skilled developer. I also have experience in Vue.js.
 
 I have a Mechatronic Engineering degree and have always had a passion for coding, which led me to study abroad in Slovenia through the Erasmus+ program. As a fluent English speaker, I am able to effectively communicate with international teams.
 
