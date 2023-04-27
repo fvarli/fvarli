@@ -64,11 +64,10 @@ I am skilled in Agile and Scrum software development methodologies and am comfor
 <h2><i>Repositories You May Review</i></h2>
 <p>
     <a href="https://github.com/fvarli/laravel-eloquent-factories">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-eloquent-factories&show_icons=true&locale=en&border_radius=0&theme=dark" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-eloquent-factories&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>
-</p>
-<p>
     <a href="https://github.com/fvarli/dynamic-twitter-bio-updater">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=dynamic-twitter-bio-updater&show_icons=true&locale=en&border_radius=0&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=dynamic-twitter-bio-updater&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>  
 </p>
+<br clear="both">
