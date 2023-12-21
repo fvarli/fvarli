@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-As a senior software developer with over 4+ years of experience, I specialize in PHP and have a wealth of experience working with Laravel and CodeIgniter. I am also well-versed in MySQL, WordPress, JavaScript, and jQuery, making me a versatile and skilled developer. I also have experience in Vue.js.
+As a seasoned software developer with over 4 years of experience, my journey in the tech industry has been both dynamic and enriching. I hold a Mechatronic Engineering degree and have nurtured a deep-rooted passion for coding, which was further honed during my studies in Slovenia through the Erasmus+ program. My fluency in English complements my technical skills, enabling effective communication with international teams.
 
-I have a Mechatronic Engineering degree and have always had a passion for coding, which led me to study abroad in Slovenia through the Erasmus+ program. As a fluent English speaker, I am able to effectively communicate with international teams.
+My professional path has been marked by a strong expertise in PHP, where I have extensively worked with frameworks like Laravel and CodeIgniter. My skill set also spans across MySQL, WordPress, JavaScript, and jQuery, showcasing my versatility in various aspects of web development. Additionally, my experience with Vue.js has added a valuable dimension to my development capabilities.
 
-Currently, I am a resident of Istanbul, Turkey, and am working at Massive Bio, an AI-driven platform connecting cancer patients to bio-pharmaceutical clinical trials. I have been with the company since April 2019 and have been able to make valuable contributions to the team.
+Until December 2023, I was part of Massive Bio, an AI-driven platform in Istanbul, Turkey, connecting cancer patients to bio-pharmaceutical clinical trials. My tenure at Massive Bio since April 2019 has been a testament to my ability to contribute significantly to innovative projects, often navigating complex challenges with ease.
 
-I am a determined and motivated professional with a proven track record of delivering complex projects on time and within budget. I have a natural ability to solve problems and am dedicated to staying up-to-date with the latest industry trends and technologies.
+Currently, my professional focus has shifted towards leveraging the MERN stack (MongoDB, Express, React, Node) for developing cutting-edge applications. This transition marks a significant step in my career, aligning with the latest industry trends and my personal goal of staying at the forefront of technological advancements.
 
-I am skilled in Agile and Scrum software development methodologies and am comfortable taking on a leadership role when necessary. I am also a team player and enjoy working in fast-paced, deadline-driven environments. I am confident that I can make a positive impact on any organization I join.
+I pride myself on being a determined and motivated professional, known for delivering complex projects on time and within budget. My problem-solving skills are complemented by a commitment to continuous learning and adaptation. Proficient in Agile and Scrum methodologies, I am not only comfortable in leadership roles but also thrive in collaborative, fast-paced, and deadline-driven environments.
+
+As I continue to grow and evolve in the tech industry, I am confident in my ability to make a substantial impact in any organization, driving innovation and excellence through my technical expertise and professional dedication.
 
 
 ![](https://komarev.com/ghpvc/?username=fvarli)
