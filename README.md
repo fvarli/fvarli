@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a seasoned software developer with over 4 years of experience, my journey in the tech industry has been both dynamic and enriching. I hold a Mechatronic Engineering degree and have nurtured a deep-rooted passion for coding, which was further honed during my studies in Slovenia through the Erasmus+ program. My fluency in English complements my technical skills, enabling effective communication with international teams.
+As a seasoned software developer with over 5 years of experience, my journey in the tech industry has been both dynamic and enriching. I hold a Mechatronic Engineering degree and have nurtured a deep-rooted passion for coding, which was further honed during my studies in Slovenia through the Erasmus+ program. My fluency in English complements my technical skills, enabling effective communication with international teams.
 
 My professional path has been marked by a strong expertise in PHP, where I have extensively worked with frameworks like Laravel and CodeIgniter. My skill set also spans across MySQL, WordPress, JavaScript, and jQuery, showcasing my versatility in various aspects of web development. Additionally, my experience with Vue.js has added a valuable dimension to my development capabilities.
 
