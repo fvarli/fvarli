@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-As a seasoned software developer with over 5 years of experience, my journey in the tech industry has been both dynamic and enriching. I hold a Mechatronic Engineering degree and have nurtured a deep-rooted passion for coding, which was further honed during my studies in Slovenia through the Erasmus+ program. My fluency in English complements my technical skills, enabling effective communication with international teams.
+As a seasoned software developer with over 6 years of experience, my tech industry journey has been dynamic and enriching. I hold a Mechatronic Engineering degree and have nurtured a deep-rooted passion for coding, which was further honed during my studies in Slovenia through the Erasmus+ program. My fluency in English complements my technical skills, enabling effective communication with international teams.
 
-My professional path has been marked by a strong expertise in PHP, where I have extensively worked with frameworks like Laravel and CodeIgniter. My skill set also spans across MySQL, WordPress, JavaScript, and jQuery, showcasing my versatility in various aspects of web development. Additionally, my experience with Vue.js has added a valuable dimension to my development capabilities.
+My professional path has been marked by a strong expertise in PHP, where I have extensively worked with frameworks like Laravel and CodeIgniter. My skill set also spans MySQL, WordPress, JavaScript, and jQuery, showcasing my versatility in various aspects of web development. Additionally, my experience with Vue.js has added a valuable dimension to my development capabilities.
 
-Until December 2023, I was part of Massive Bio, an AI-driven platform in Istanbul, Turkey, connecting cancer patients to bio-pharmaceutical clinical trials. My tenure at Massive Bio since April 2019 has been a testament to my ability to contribute significantly to innovative projects, often navigating complex challenges with ease.
+Until December 2023, I was part of Massive Bio, an AI-driven platform in Istanbul, Turkey, connecting cancer patients to bio-pharmaceutical clinical trials. My tenure at Massive Bio since April 2019 has been a testament to my ability to contribute significantly to innovative projects, often navigating complex challenges easily.
 
 Currently, my professional focus has shifted towards leveraging the MERN stack (MongoDB, Express, React, Node) for developing cutting-edge applications. This transition marks a significant step in my career, aligning with the latest industry trends and my personal goal of staying at the forefront of technological advancements.
 
@@ -31,6 +31,7 @@ As I continue to grow and evolve in the tech industry, I am confident in my abil
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=F7DF1E" alt="jquery" />
     <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=F7DF1E" alt="vue.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
