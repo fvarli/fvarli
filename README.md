@@ -66,12 +66,12 @@ As I continue to grow and evolve in the tech industry, I am confident in my abil
 
 <h2><i>Repositories You May Review</i></h2>
 <p>
-    <a href="https://github.com/fvarli/laravel-redis-sample">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-redis-sample&show_icons=true&locale=en&border_radius=0&theme=dark" />
-    </a>
-    <br><br>
     <a href="https://github.com/fvarli/laravel-eloquent-factories">
         <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-eloquent-factories&show_icons=true&locale=en&border_radius=0&theme=dark" />
+    </a>
+    <br><br>
+    <a href="https://github.com/fvarli/laravel-redis-sample">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-redis-sample&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>
     <br><br>
     <a href="https://github.com/fvarli/laravel-quiz-app">
