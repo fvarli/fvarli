@@ -65,29 +65,24 @@ As I continue to grow and evolve in the tech industry, I am confident in my abil
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 <h2><i>Repositories You May Review</i></h2>
-<p>
-    <a href="https://github.com/fvarli/ferzendervarlicom">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=ferzendervarlicom&show_icons=true&locale=en&border_radius=0&theme=dark" />
+<p style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <a href="https://github.com/fvarli/ferzendervarlicom" style="flex: 1 0 250px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=ferzendervarlicom&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>
-    <br><br>
-    <a href="https://github.com/fvarli/laravel-eloquent-factories">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-eloquent-factories&show_icons=true&locale=en&border_radius=0&theme=dark" />
+    <a href="https://github.com/fvarli/laravel-eloquent-factories" style="flex: 1 0 250px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-eloquent-factories&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>
-    <br><br>
-    <a href="https://github.com/fvarli/laravel-redis-sample">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-redis-sample&show_icons=true&locale=en&border_radius=0&theme=dark" />
+    <a href="https://github.com/fvarli/laravel-redis-sample" style="flex: 1 0 250px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-redis-sample&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>
-    <br><br>
-    <a href="https://github.com/fvarli/laravel-quiz-app">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-quiz-app&show_icons=true&locale=en&border_radius=0&theme=dark" />
+    <a href="https://github.com/fvarli/laravel-quiz-app" style="flex: 1 0 250px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-quiz-app&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>
-    <br><br>
-    <a href="https://github.com/fvarli/currency_exchange_api">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=currency_exchange_api&show_icons=true&locale=en&border_radius=0&theme=dark" />
+    <a href="https://github.com/fvarli/currency_exchange_api" style="flex: 1 0 250px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=currency_exchange_api&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>
-    <br><br>
-    <a href="https://github.com/fvarli/php-tutorial">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=php-tutorial&show_icons=true&locale=en&border_radius=0&theme=dark" />
+    <a href="https://github.com/fvarli/php-tutorial" style="flex: 1 0 250px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=php-tutorial&show_icons=true&locale=en&border_radius=0&theme=dark" />
     </a>
 </p>
 <br clear="both">
