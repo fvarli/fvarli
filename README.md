@@ -66,6 +66,9 @@ As I continue to grow and evolve in the tech industry, I am confident in my abil
 
 <h2><i>Repositories You May Review</i></h2>
 <p style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <a href="https://github.com/fvarli/laravel-geo-locator-api" style="flex: 1 0 250px; text-decoration: none;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=laravel-geo-locator-api&show_icons=true&locale=en&border_radius=0&theme=dark&v=1" />
+    </a>
     <a href="https://github.com/fvarli/ferzendervarlicom" style="flex: 1 0 250px; text-decoration: none;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=fvarli&layout=compact&repo=ferzendervarlicom&show_icons=true&locale=en&border_radius=0&theme=dark&v=1" />
     </a>
